@@ -1,32 +1,25 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=Hello,+I'm+Camila+%F0%9F%8C%B8;Computer+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+GitHub+world+%E2%9C%A8" />
-
 </div>
 
 <div align="center">
 
 ## ✨ Welcome to my little corner of GitHub ✨
-
 🌸 Computer Engineering Student  
 💻 Passionate about technology and creativity  
 📚 Learning, building and sharing projects  
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="600">
-
+<img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="700">
 </div>
 </div>
 
 ## 🌷 About Me
-
 Hi! I'm Cami 💗
-
 I'm a Computer Engineering student who enjoy creating things with code.
 
 Currently exploring:
-
 ✨ Algorithms and Data Structures  
 ✨ Software Development  
 ✨ Web Development  
@@ -35,7 +28,6 @@ Currently exploring:
 I believe programming is a mix of logic, creativity and curiosity 🌸
 
 ## 🌱 Currently Learning
-
 🎀 Improving my programming skills  
 🎀 Building personal projects  
 🎀 Learning clean code principles  
@@ -44,7 +36,6 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 ## 💻 Tech Stack
 
 ### 🌸 Languages
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,css,html&theme=light" width="500"/>
@@ -53,7 +44,6 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 
 ### 🎀 Tools
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,postgres,azure&theme=light" width="500"/>
