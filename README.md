@@ -53,15 +53,28 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 </div>
 
 
-## 🌸📊 GitHub Journey 
+
+## 📊 GitHub Journey 💻🌸
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K1000aC&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585&icon_color=FF69B4"/>
+<!-- Profile Journey -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=rose_pine"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1000aC&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585"/>
+<!-- Stats + Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=K1000aC&show_icons=true&hide_border=true&border_radius=20&bg_color=FFF0F6&title_color=EC4899&text_color=9D174D&icon_color=F472B6"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1000aC&layout=compact&hide_border=true&border_radius=20&bg_color=FFF0F6&title_color=EC4899&text_color=9D174D"/>
+
+<br><br>
+
+<!-- Contribution Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K1000aC&bg_color=fff0f6&color=ec4899&line=f472b6&point=db2777&area=true&hide_border=true"/>
 
 </div>
 
