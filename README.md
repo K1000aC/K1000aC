@@ -13,7 +13,6 @@
 <img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="700">
 </div>
 </div>
-
 ## 🌷 About Me
 Hi! I'm Cami 💗
 
