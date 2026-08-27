@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hello,+I'm+CamilaCruz+%F0%9F%8C%B8;Computer+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+GitHub+world+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=Hello,+I'm+Camila+%F0%9F%8C%B8;Computer+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+GitHub+world+%E2%9C%A8" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="400">
+<img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="600">
 
 </div>
 </div>
@@ -43,13 +43,11 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### 🌸 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,c++&theme=light" width="300"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,css,html&theme=light" width="500"/>
 
 </div>
 
@@ -58,17 +56,33 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,postgre,azure&theme=light" width="350"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,postgres,azure&theme=light" width="500"/>
 
 </div>
 
 ## 📊 GitHub Stats
 
+### 🏆 GitHub Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=K1000aC&theme=radical&row=1&column=6"/>
-<img src="https://github-readme-stats.vercel.app/api?username=K1000aC&show_icons=true&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1000aC&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=K1000aC&theme=dracula&no-frame=true&margin-w=15"/>
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1000aC&theme=rose_pine"/>
+
+</div>
+
+### 🌸 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=rose_pine"/>
 
 </div>
 
