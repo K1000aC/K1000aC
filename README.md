@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Hello,%20I'm%20Camila Cruz%20🌸&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Hello,%20I'm%20CamilaCruz%20🌸&fontSize=40&fontColor=ffffff" />
 
 </div>
 <div align="center">
@@ -13,9 +13,9 @@
 
 ## 🌷 About Me
 
-Hi! I'm Camila Cruz 💗
+Hi! I'm Cami 💗
 
-I'm a Computer Engineering student who loves creating things with code.
+I'm a Computer Engineering student who enjoy creating things with code.
 
 Currently exploring:
 
@@ -67,6 +67,7 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 </a>
 
 <div align="center">
+
 
 🌸 Thanks for visiting my profile 🌸
 
