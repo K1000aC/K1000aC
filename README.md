@@ -52,29 +52,20 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 </div>
 
-## 📊 GitHub Stats
-
-### 🏆 GitHub Achievements
+## 🌸📊 GitHub Journey 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=K1000aC&theme=dracula&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=tokyonight"/>
 
 </div>
 
-### 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1000aC&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1000aC&theme=dracula"/>
 
-</div>
-
-### 🌸 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1000aC&theme=dracula"/>
 
 </div>
 
