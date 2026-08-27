@@ -57,14 +57,13 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K1000aC&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=FF6FAE&text_color=9C4F7C&icon_color=FF8FC7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K1000aC&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585&icon_color=FF69B4"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1000aC&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=FF6FAE&text_color=9C4F7C"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1000aC&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585"/>
 
 </div>
-
 
 ## 🎀 Little Things About Me
 
