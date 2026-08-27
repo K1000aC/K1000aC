@@ -17,9 +17,11 @@
 
 ## 🌷 About Me
 Hi! I'm Cami 💗
+
 I'm a Computer Engineering student who enjoy creating things with code.
 
 Currently exploring:
+
 ✨ Algorithms and Data Structures  
 ✨ Software Development  
 ✨ Web Development  
