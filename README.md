@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Hello,%20I'm%20YourName%20🌸&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=200&section=header&text=Hello,%20I'm%20Camila Cruz%20🌸&fontSize=40&fontColor=ffffff" />
 
 </div>
 <div align="center">
