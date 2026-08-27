@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=Hello,+I'm+Camila+%F0%9F%8C%B8;Computer+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+GitHub+world+%E2%9C%A8" />
 </div>
 <div align="center">
+  
 ## ✨ Welcome to my little corner of GitHub ✨
+
 🌸 Computer Engineering Student  
 💻 Passionate about technology and creativity  
 📚 Learning, building and sharing projects  
