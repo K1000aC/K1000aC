@@ -52,17 +52,12 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 </div>
 
-<div align="center">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="500">
-
-</div>
 
 ## 🌸📊 GitHub Journey 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=kacho_ga"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1000aC&theme=rose_pine"/>
 
 </div>
 
@@ -70,9 +65,9 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1000aC&theme=kacho_ga"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K1000aC&theme=rose_pine"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1000aC&theme=kacho_ga"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K1000aC&theme=rose_pine"/>
 
 </div>
 
