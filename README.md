@@ -4,10 +4,9 @@
 </div>
 <div align="center">
   
-## ✨ Welcome to my little corner of GitHub ✨
+## ✨ Welcome to my GitHub ✨
 
 🌸 Computer Engineering Student  
-💻 Passionate about technology and creativity  
 📚 Learning, building and sharing projects  
 
 <div align="center">
@@ -17,7 +16,7 @@
 </div>
 
 ## 🌷 About Me
-Hi! I'm Cami 💗
+Hi! I'm Cami
 
 I'm a Computer Engineering student who enjoy creating things with code.
 
@@ -27,8 +26,6 @@ Currently exploring:
 ✨ Software Development  
 ✨ Web Development  
 ✨ Artificial Intelligence  
-
-I believe programming is a mix of logic, creativity and curiosity 🌸
 
 ## 🌱 Currently Learning
 🎀 Improving my programming skills  
@@ -54,13 +51,12 @@ I believe programming is a mix of logic, creativity and curiosity 🌸
 </div>
 
 
-## 📊 GitHub Journey 💻🌸
+## GitHub Journey 💻🌸
 
 
 ## 🎀 Little Things About Me
 
 🌸 I enjoy learning new technologies  
-☕ Coffee + coding = happiness  
 🎧 Coding with music is my favorite workflow  
 ✨ Always trying to improve
 
