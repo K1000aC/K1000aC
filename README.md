@@ -54,8 +54,6 @@ Currently exploring:
 ## GitHub Journey 💻🌸
 
 
-## 🎀 Little Things About Me
-
 🌸 I enjoy learning new technologies  
 🎧 Coding with music is my favorite workflow  
 ✨ Always trying to improve
