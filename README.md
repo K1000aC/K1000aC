@@ -8,7 +8,7 @@
 📚 Learning, building and sharing projects  
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/K1000aC/Personal-Portfolio/main/Assets/GIFs/Kitoo%20Gif%20transparent.gif" width="700">
+<img src="https://raw.githubusercontent.com/K1000aC/K1000aC-profile-assets/main/KitoGif_compress.gif" width="700">
 </div>
 
 </div>
